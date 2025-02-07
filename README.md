@@ -1,10 +1,17 @@
 ## Hi there, I'm Nur Bidayatul Hidayah👋 
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92C6F7&width=435&lines=Mechatronics+Engineering+Graduate;Adabtable+%26+Curious;Always+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
+<p align="left">
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92C6F7&width=435&lines=Mechatronics+Engineering+Graduate;Adabtable+%26+Curious;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
+
+A highly motivated graduate engineer with a strong passion for continuous learning and innovation. Always eager to explore emerging technologies and expand my expertise in electrical, electronics, robotics, AI, and automation. I thrive on challenges that push me beyond my comfort zone, enabling me to acquire new skills and contribute effectively to cutting-edge projects.
+
+- 🌱 I’m currently learning ROS 
+- 👯 I’m looking for opportunity to work on electrical, electronics and automation engineering
+- ⚡ Fun fact: I love photography and sending postcards
+
+</p>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bidayatulhidayah/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -12,12 +19,6 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-
-A highly motivated graduate engineer with a strong passion for continuous learning and innovation. Always eager to explore emerging technologies and expand my expertise in electrical, electronics, robotics, AI, and automation. I thrive on challenges that push me beyond my comfort zone, enabling me to acquire new skills and contribute effectively to cutting-edge projects.
-
-- 🌱 I’m currently learning ROS 
-- 👯 I’m looking for opportunity to work on electrical, electronics and automation engineering
-- ⚡ Fun fact: I love photography and sending postcards 
 
 <!--
 **bidayatulhidayah/bidayatulhidayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
