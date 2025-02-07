@@ -107,7 +107,7 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt=".Net Framework" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
