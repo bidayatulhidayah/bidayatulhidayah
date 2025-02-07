@@ -13,7 +13,7 @@ A highly motivated graduate engineer with a strong passion for continuous learni
 
 </p>
 <!-- Social icons section -->
-<p align="left">
+<p align="right">
   <a href="https://www.linkedin.com/in/bidayatulhidayah/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
