@@ -7,13 +7,13 @@
 
 A highly motivated graduate engineer with a strong passion for continuous learning and innovation. Always eager to explore emerging technologies and expand my expertise in electrical, electronics, robotics, AI, and automation. I thrive on challenges that push me beyond my comfort zone, enabling me to acquire new skills and contribute effectively to cutting-edge projects.
 
-- 🌱 I’m currently learning ROS 
+- 🌱 I’m currently learning ROS and Git
 - 👯 I’m looking for opportunity to work on electrical, electronics and automation engineering
 - ⚡ Fun fact: I love photography and sending postcards
 
 </p>
 <!-- Social icons section -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bidayatulhidayah/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
