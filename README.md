@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 | [Smart Object Identification](https://github.com/bidayatulhidayah/Smart-Object-Identification-in-Oil-Palm-Plantations) | Machine Learning, Python |
 | [Bi Directional Chat Application](https://github.com/bidayatulhidayah/Bi-Directional-Chat-Application-Using-TCP-Communication) | TCP Comm, Windows Console App, C# |
 | [Cardiac Disease Detection](https://github.com/bidayatulhidayah/Cardiac-Disease-Detection-Using-Neural-Network-And-ANFIS-GA)                  | Machine Learning        |
-| [Robotic Arm Simuation](https://github.com/bidayatulhidayah/Robotic-Arm-Simulation-using-Robo-DK)          | RoboDK |
+| [Robotic Arm Simulation](https://github.com/bidayatulhidayah/Robotic-Arm-Simulation-using-Robo-DK)          | RoboDK |
 | [Line Following Robot](https://github.com/bidayatulhidayah/Soccer-Kicking-Line-Following-Robot-) | Arduino |
 
 </details>
