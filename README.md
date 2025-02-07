@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/bidayatulhidayah?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<details > 
+<details open > 
   <summary><h2>🏷️ My Certificate</h2></summary>
   </p>
       <a href="https://www.credly.com/badges/210d24f6-19d1-49d0-aa7e-62291043e7e1/public_url"><img alt="3DEXPERIENCE Mechanical Designer Professional" src="https://img.shields.io/badge/3DEXPERIENCE%20Mechanical%20Designer%20Professional-white?style=flat&logo=dassaultsystemes&color=%23D97757"></a>
