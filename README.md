@@ -9,7 +9,7 @@ A highly motivated graduate engineer with a strong passion for continuous learni
 
 - 🌱 I’m currently learning ROS and Git
 - 👯 I’m looking for opportunity to work on electrical, electronics and automation engineering
-- ⚡ Fun fact: I love photography and sending postcards
+
 
 </p>
 <!-- Social icons section -->
