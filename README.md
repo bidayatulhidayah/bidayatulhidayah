@@ -66,8 +66,8 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 - [Robotic Workshop](./RW.md)
-- [Robocon](./Robocon.md)
 - [Academic Projects](./Academic.md)
+- [Robocon](./Robocon.md)
 - [3D Design Compilation](https://github.com/bidayatulhidayah/3D-Design-Compilation)
  
   <a href="https://github.com/bidayatulhidayah?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
