@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-- 
+- [Cardiac Disease Detection](https://github.com/bidayatulhidayah/Cardiac-Disease-Detection-Using-Neural-Network-And-ANFIS-GA)
 - [University Projects](./university.md)
  
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
