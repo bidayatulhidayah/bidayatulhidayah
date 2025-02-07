@@ -40,19 +40,36 @@ Here are some ideas to get you started:
 
 -->
 
-<details open> 
-  <summary><h2>📘 My Projects</h2></summary>
+<details > 
+  <summary><h2>📕 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-- [Cardiac Disease Detection](https://github.com/bidayatulhidayah/Cardiac-Disease-Detection-Using-Neural-Network-And-ANFIS-GA)
-- [University Projects](./university.md)
- 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+| Project                                                               | Scope                   |
+| ------------------------------------------------------------------ | ------------------------- |
+| [Local ANC for Vehicle Cabin](https://github.com/bidayatulhidayah/Local-Active-Noise-Cancellation-for-Vehicle-Cabin) | LabVIEW, CRio |
+| [Map for the Blinds](https://github.com/bidayatulhidayah/Maps-for-the-Blinds) | Arduino |
+| [Whac a Mole Game](https://github.com/bidayatulhidayah/Whac-a-Mole-Game) | Arduino |
+| [Smart Object Identification](https://github.com/bidayatulhidayah/Smart-Object-Identification-in-Oil-Palm-Plantations) | Machine Learning, Python |
+| [Bi Directional Chat Application](https://github.com/bidayatulhidayah/Bi-Directional-Chat-Application-Using-TCP-Communication) | TCP Comm, Windows Console App, C# |
+| [Cardiac Disease Detection](https://github.com/bidayatulhidayah/Cardiac-Disease-Detection-Using-Neural-Network-And-ANFIS-GA)                  | Machine Learning        |
+| [Robotic Arm Simuation](https://github.com/bidayatulhidayah/Robotic-Arm-Simulation-using-Robo-DK)          | RoboDK |
+| [Line Following Robot](https://github.com/bidayatulhidayah/Soccer-Kicking-Line-Following-Robot-) | Arduino |
+
 </details>
 
+<details > 
+  <summary><h2>📘 My Other Projects</h2></summary>
 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+- [Robotic Workshop](./RW.md)
+- [Robocon](./Robocon.md)
+- [Academic Projects](./Academic.md)
+ 
+  <a href="https://github.com/bidayatulhidayah?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -115,5 +132,16 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+<details > 
+  <summary><h2>🏷️ My Certificate</h2></summary>
+  </p>
+      <a href="https://www.credly.com/badges/210d24f6-19d1-49d0-aa7e-62291043e7e1/public_url"><img alt="3DEXPERIENCE Mechanical Designer Professional" src="https://img.shields.io/badge/3DEXPERIENCE%20Mechanical%20Designer%20Professional-white?style=flat&logo=dassaultsystemes&color=%23D97757"></a>
+      <a href="#"><img alt=" ICE-DEP MARii Industry Certification Engineering (Manufacturing)" src="https://img.shields.io/badge/%20ICE%20DEP%20MARii%20Industry%20Certification%20Engineering%20(Manufacturing)-white?style=flat&logoColor=%23ffffff&logoSize=auto&color=%23A100FF"></a>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/19129337/DCAF75C9B0DA7BEB?sharingId=9A793B12E1268C31"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Data%20Fundamentals-white?style=flat&color=%232885F1"></a>
+      <a href="https://www.credly.com/badges/54b87e06-fab4-4838-b381-855114e0f8f0/linked_in_profile"><img alt="Certified Entry-Level Python Programmer" src="https://img.shields.io/badge/Certified%20Entry%20Level%20Python%20Programmer-white?style=flat&logo=python&logoColor=%23ffffff&logoSize=auto&color=%23B12B28"></a>
+      <a href="#"><img alt="APU Certified Data Science Programmer" src="https://img.shields.io/badge/APU%20Certified%20Data%20Science%20Programmer-white?style=flat&logoColor=%23ffffff&logoSize=auto&color=%2357B685"></a>
+      
+  </p>
+</details>
   
 
