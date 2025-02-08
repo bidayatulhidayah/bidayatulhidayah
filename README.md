@@ -5,10 +5,10 @@
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92C6F7&width=435&lines=Mechatronics+Engineering+Graduate;Adabtable+%26+Curious;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
 
-A highly motivated graduate engineer with a strong passion for continuous learning and innovation. Always eager to explore emerging technologies and expand my expertise in electrical, electronics, robotics, AI, and automation. I thrive on challenges that push me beyond my comfort zone, enabling me to acquire new skills and contribute effectively to cutting-edge projects.
+A highly motivated graduate engineer with a strong passion for continuous learning and innovation. Always eager to explore emerging technologies and expand my expertise in electrical, electronics, mechanical, robotics, AI, and automation. I thrive on challenges that push me beyond my comfort zone, enabling me to acquire new skills and contribute effectively to cutting-edge projects.
 
 - 🌱 I’m currently learning ROS and Git
-- 👯 I’m looking for opportunity to work on electrical, electronics and automation engineering
+- 👯 I’m looking for opportunity to work on electrical, electronics, mechanical and automation engineering
 
 
 </p>
